@@ -18,8 +18,10 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 # Bonus:
 - Creare un componente aggiuntivo per gestire la fascia azzurra con le icone.
 
-# MILESTONES
+# MILESTONES PRINCIPALI
 1. Creare e inizializzare Vite + Vue 3.
 2. Trasformare in Options API.
 3. Creare i Componenti e Importarli (prova).
+    - npm install sass
+    - npm install bootstrap
 4. Installare Bootstrap e SASS.
