@@ -25,5 +25,5 @@ import FooterComponent from './components/FooterComponent.vue';
 </script>
 
 <style lang="scss" scoped>
-
+// Font family
 </style>
